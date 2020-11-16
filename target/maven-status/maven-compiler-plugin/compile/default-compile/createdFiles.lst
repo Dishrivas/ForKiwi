@@ -1,0 +1,17 @@
+navigator\NavigationPageFactory$1.class
+pagehandler\HomePageHandler.class
+page\AltoroLoginPage.class
+page\AltoroTransferFundsPage.class
+navigator\InitPageFactory.class
+pagehandler\AltoroLoginPageHandler.class
+configdefinition\DefaultTestValues.class
+stepdef\AltoroLoginPageSteps.class
+navigator\CommonSteps.class
+configdefinition\PageTypeConfig.class
+page\HomePage.class
+navigator\NavigationPageFactory.class
+page\BasePage.class
+navigator\WebDriverController.class
+stepdef\PageNavigationSteps.class
+stepdef\CucumberTestHook.class
+stepdef\CucumberTestRunner.class
