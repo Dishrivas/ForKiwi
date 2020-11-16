@@ -11,7 +11,7 @@ public class AltoroLoginPageSteps{
 //public WebDriver driver;
 
 
-    AltoroLoginPageHandler pagehandler = new AltoroLoginPageHandler(WebDriverController.webDriverController);
+    //AltoroLoginPageHandler pagehandler = new AltoroLoginPageHandler(WebDriverController.webDriverController);
     HomePageHandler homePageHandler = new HomePageHandler(WebDriverController.webDriverController);
 
 
